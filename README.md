@@ -1,4 +1,4 @@
-### Hello, I’m Michael  👋
+### Hello, I’m Michael Bryan Sumner 👋
 
  [<img align="right" alt="GIF" src="https://raw.githubusercontent.com/michael-sumner/michael-sumner/main/hello.png" width="500" height="364" />][reviews]
 
@@ -48,7 +48,6 @@
 
 <br />
 <br />
----
 
 [website]: https://www.sumner.co.uk/
 [twitter]: https://twitter.com/MichaelBSumner

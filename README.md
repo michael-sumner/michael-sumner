@@ -1,6 +1,6 @@
 ### Hello, I’m Michael  👋
 
- [<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/hello.png?raw=true" width="500" height="364" />][reviews]
+ [<img align="right" alt="GIF" src="https://raw.githubusercontent.com/michael-sumner/michael-sumner/main/hello.png" width="500" height="364" />][reviews]
 
 
 ## I work with Blue Frontier, a leading and award-winning web technology company here in the UK. 💙

@@ -4,7 +4,7 @@
 
 
 ## I work with Blue Frontier, a leading and award-winning web technology company here in the UK. 💙
-- ✍ You can find my projects here [reviews]
+- ✍ [You can find my projects here][reviews]
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React.js + WordPress
 - 💬 Ask me about ... Anything

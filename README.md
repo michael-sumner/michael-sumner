@@ -1,11 +1,7 @@
 ### Hello, I’m Michael Bryan Sumner 👋
-
- [<img align="right" alt="GIF" src="https://raw.githubusercontent.com/michael-sumner/michael-sumner/main/hello.png" width="500" height="364" />][reviews]
-
-
 ## I work with Blue Frontier, a leading and award-winning web technology company here in the UK. 💙
-- ✍ [You can find my projects here][reviews]
-- 🔭 I’m currently working on my first book.
+- ✍ [You can find my past freelance projects here][reviews]
+- 🔭 I’m avidly into new technologies and ideas.
 - 🌱 I’m currently learning React.js + WordPress
 - 💬 Ask me about ... Anything
 - ⚡ I am also deeply interested in Sustainability, Innovation, and Digital Transformation of society
@@ -19,7 +15,7 @@
 [<img align="left" alt="Blockchain" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/blockchain/blockchain.png" />][twitter]
 [<img align="left" alt="Bootstrap CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" />][twitter]
 [<img align="left" alt="Composer" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/composer/composer.png" />][twitter]
-[<img align="left" alt="ES6" width="26px" src="https://github.com/github/explore/blob/main/topics/es6/es6.png?raw=true" />][twitter]
+[<img align="left" alt="ES6" width="26px" src="https://raw.githubusercontent.com/github/explore/e4270e345b968ae626310bc86e339a2ae80c6ae4/topics/ecmascript/ecmascript.png" />][twitter]
 [<img align="left" alt="Anything Google" width="26px" src="https://github.com/github/explore/blob/main/topics/google/google.png?raw=true" />][twitter]
 [<img align="left" alt="GraphQL" width="26px" src="https://github.com/github/explore/blob/main/topics/graphql/graphql.png?raw=true" />][twitter]
 [<img align="left" alt="Gulp.js" width="26px" src="https://github.com/github/explore/blob/main/topics/gulp/gulp.png?raw=true" />][twitter]

@@ -10,7 +10,7 @@
 - 💬 Ask me about ... Anything
 - ⚡ I am also deeply interested in Sustainability, Innovation, and Digital Transformation of society
 
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-sumner&layout=compact&theme=dark&count_private=true)]()
+[![Michael's GitHub stats](https://metrics.lecoq.io/michael-sumner?template=terminal&languages=1&lines=1&activity=1&pagespeed=1&tweets=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Europe%2FLondon)]()
 
 ### Languages and Tools:
 

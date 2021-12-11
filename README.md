@@ -1,12 +1,10 @@
-### Hello, I’m Michael Bryan Sumner 👋
-## I work with Blue Frontier, a leading and award-winning web technology company here in the UK. 💙
-- ✍ [You can find my past freelance projects here][reviews]
-- 🔭 I’m avidly into new technologies and ideas.
-- 🌱 I’m currently learning React.js + WordPress
-- 💬 Ask me about ... Anything
-- ⚡ I am also deeply interested in Sustainability, Innovation, and Digital Transformation of society
+### Hello, I’m <mark>Michael Sumner</mark> 👋
 
-[![Michael's GitHub stats](https://metrics.lecoq.io/michael-sumner?template=terminal&languages=1&lines=1&activity=1&pagespeed=1&tweets=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Europe%2FLondon)]()
+- 🔭 I’m avidly into new technologies and ideas.
+- 🌱 I’m working in React.js, WordPress, and Web 3.0.
+- ✍ [You can find my past freelance projects here][reviews]
+
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-sumner&count_private=true&show_icons=true&theme=yeblu)]()
 
 ### Languages and Tools:
 

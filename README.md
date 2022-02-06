@@ -1,10 +1,12 @@
 ### Hello, I’m <mark>Michael Sumner</mark> 👋
 
 - 🔭 I’m avidly into new technologies and ideas.
-- 🌱 I’m working in React.js, WordPress, and Web 3.0.
+- 🌱 I’m working in PHP, React.js, WordPress, and Web 3.0.
 - ✍ [You can find my past freelance projects here][reviews]
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-sumner&count_private=true&show_icons=true&theme=yeblu&hide=stars,prs,issues,contribs)][github]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-sumner&layout=compact)][github]
 
 ### Languages and Tools:
 

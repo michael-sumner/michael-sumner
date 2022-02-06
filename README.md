@@ -4,7 +4,7 @@
 - 🌱 I’m working in React.js, WordPress, and Web 3.0.
 - ✍ [You can find my past freelance projects here][reviews]
 
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-sumner&count_private=true&show_icons=true&theme=yeblu)][github]
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-sumner&count_private=true&show_icons=true&theme=yeblu&hide=stars,prs,issues,contribs)][github]
 
 ### Languages and Tools:
 

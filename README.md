@@ -1,12 +1,14 @@
-### Hello, I’m <mark>Michael Sumner</mark> 👋
+# Hello, I’m <mark>Michael Sumner</mark> <img width="30px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
 - 🔭 I’m avidly into new technologies and ideas.
 - 🌱 I’m working in PHP, React.js, WordPress, and Web 3.0.
-- ✍ [You can find my past freelance projects here][reviews]
+- ✍ [Here’s the good news around town.][reviews]
 
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-sumner&count_private=true&show_icons=true&theme=yeblu&hide=stars,prs,issues,contribs)][github]
+[![GitHub Stats](https://github-profile-trophy.vercel.app/?username=michael-sumner)][github]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-sumner&layout=compact)][github]
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michael-sumner&date_format=M%20j%5B%2C%20Y%5D)][github]
 
 ### Languages and Tools:
 

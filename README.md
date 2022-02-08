@@ -4,11 +4,15 @@
 - 🌱 I’m working in PHP, React.js, WordPress, and Web 3.0.
 - ✍ [Here’s the good news around town.][reviews]
 
+---
+
 [![GitHub Stats](https://github-profile-trophy.vercel.app/?username=michael-sumner)][github]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-sumner&layout=compact)][github]
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michael-sumner&date_format=M%20j%5B%2C%20Y%5D)][github]
+
+---
 
 ### Languages and Tools:
 
@@ -53,6 +57,8 @@
 [linkedin]: https://www.linkedin.com/in/michael-bryan-sumner/
 [reviews]: https://smnr.co/portfolio
 [github]: https://github.com/michael-sumner/
+
+---
 
 ### Working with: 
 [<img align="left" alt="WordPress" src="./wordpress.svg" height="42" />][linkedin]

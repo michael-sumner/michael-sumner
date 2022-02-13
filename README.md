@@ -62,6 +62,7 @@
 
 ### Working with: 
 [<img align="left" alt="WordPress" src="./wordpress.svg" height="42" />][linkedin]
+[<img align="left" alt="Google Marketing Platform" src="./google.svg" height="42" />][linkedin]
 [<img align="left" alt="Polygon" src="https://static.wixstatic.com/media/ded033_9d232de1d22841efbd951ef44c985605~mv2.jpg/v1/fill/w_164,h_42,al_c,q_80,usm_0.66_1.00_0.01/polygon.webp" />][linkedin]
 [<img align="left" alt="Avalanche" src="https://static.wixstatic.com/media/ded033_3cc58f222bd94b49b9457dcc4bcddfd6~mv2.jpg/v1/fill/w_150,h_42,al_c,q_80,usm_0.66_1.00_0.01/avalanche.webp" />][linkedin]
 [<img align="left" alt="Solana" src="https://static.wixstatic.com/media/ded033_bfecfd23ad9147088555fc6a412ce8a7~mv2.png/v1/fill/w_155,h_42,al_c,q_85,usm_0.66_1.00_0.01/solana.webp" />][linkedin]

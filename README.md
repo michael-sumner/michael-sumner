@@ -4,7 +4,7 @@
 
 - 🔭 I’m avidly into new technologies and ideas.
 - 🌱 I’m working in PHP, React.js, WordPress, and Web 3.0.
-- ✍ [Here’s the good news around town.][reviews]
+- ✍ [View my freelance portfolio reviews.][reviews]
 
 ---
 

@@ -4,7 +4,7 @@
 
 - 🔭 I’m avidly into new technologies and ideas.
 - 🌱 I’m working in PHP, React.js, WordPress, and Web 3.0.
-- ✍ [View my freelance portfolio reviews.][reviews]
+- ✍ [View my blog.][blog]
 
 ---
 
@@ -55,9 +55,9 @@
 <br />
 
 [website]: https://www.sumner.co.uk/
+[blog]: https://blog.sumner.co.uk/
 [twitter]: https://twitter.com/MichaelBSumner
 [linkedin]: https://www.linkedin.com/in/michael-bryan-sumner/
-[reviews]: https://smnr.co/portfolio
 [github]: https://github.com/michael-sumner/
 
 ---

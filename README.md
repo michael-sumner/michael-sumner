@@ -6,6 +6,8 @@
 
 ---
 
+[<img align="center" alt="Michael Sumner's GitHub Contributions Snake 🍎" title="Michael Sumner's GitHub Contributions Snake 🍎" src="./github-contribs-snake.svg" />][linkedin]
+
 [![GitHub Stats](https://github-profile-trophy.vercel.app/?username=michael-sumner)][github]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-sumner&layout=compact)][github]

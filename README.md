@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-sumner&layout=compact)][github]
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michael-sumner&date_format=M%20j%5B%2C%20Y%5D)][github]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michael-sumner&date_format=M%20j%5B%2C%20Y%5D&cache=2b39febd-adc3-43fb-955d-5d6cb321c64f)][github]
 
 ---
 

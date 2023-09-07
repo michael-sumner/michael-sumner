@@ -6,11 +6,11 @@
 
 ---
 
-[<picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michael-sumner/michael-sumner/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michael-sumner/michael-sumner/output/github-contribution-grid-snake.svg" />
   <img alt="Michael Sumner's GitHub Contributions Snake 🍎" title="Michael Sumner's GitHub Contributions Snake 🍎" src="https://raw.githubusercontent.com/michael-sumner/michael-sumner/output/github-contribution-grid-snake.svg" />
-</picture>][linkedin]
+</picture>
 
 [![GitHub Stats](https://github-profile-trophy.vercel.app/?username=michael-sumner)][github]
 

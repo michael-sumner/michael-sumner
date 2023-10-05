@@ -1,4 +1,4 @@
-<img alt="red synthwave" src="./header.png" />
+<img alt="red synthwave" src="https://www.raycast.com/_next/image?url=%2Fuploads%2Fwallpapers%2Floupe-preview.png&w=3840&q=75" />
 
 # Hello, I’m <mark>Michael Sumner</mark> <img width="30px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 

@@ -8,12 +8,12 @@
   <img alt="Michael Sumner's GitHub Contributions Snake 🍎" title="Michael Sumner's GitHub Contributions Snake 🍎" src="https://raw.githubusercontent.com/michael-sumner/michael-sumner/output/github-contribution-grid-snake.svg" />
 </picture>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michael-sumner&date_format=M%20j%5B%2C%20Y%5D&cache=2b39febd-adc3-43fb-955d-5d6cb321c64f)][github]
+[![GitHub Streak](https://github-readme-streak-stats-iota-orpin.vercel.app?user=michael-sumner&date_format=M%20j%5B%2C%20Y%5D)][github]
 
 ---
 
 [website]: https://www.sumner.co.uk/
 [blog]: https://blog.sumner.co.uk/
-[twitter]: https://twitter.com/MichaelBSumner
+[twitter]: https://twitter.com/mb_sumner
 [linkedin]: https://www.linkedin.com/in/michael-bryan-sumner/
 [github]: https://github.com/michael-sumner/
